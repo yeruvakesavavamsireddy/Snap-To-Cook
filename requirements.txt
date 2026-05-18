@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+pandas
+opencv-python
+pillow
+streamlit
+mysql-connector-python
+scikit-learn
+nltk
+pyttsx3
+rapidfuzz
